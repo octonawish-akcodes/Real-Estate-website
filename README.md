@@ -6,4 +6,5 @@ It has main page following with three different pages namely duplex houses , sim
 When we load the index.html the main homepage of website opens where the visitor has a dropdown menu for selecting the type of house the visitor want to see. So when 
 the visitor select one of the three option it landed it to the next page the visior selects..and there he/she cab see the description about different houses with their prizes, 
 facilities etc available.
+Pls make sure these all file should contain in one folder and if you want to customise then pls change the location accordingly.
 
